@@ -5,17 +5,17 @@ The objective of this project was to utilize SQL queries to create primary and s
 
 For the purpose of this research, the following tables were available:
 
-**czechia_payroll**: Provides insights into wage trends across various sectors spanning multiple years. The dataset is sourced from the Open Data Portal of the Czech Republic.
-**czechia_payroll_calculation**: An index denoting the calculations applied within the salary table.
-**czechia_payroll_industry_branch**: Identifies the branch number corresponding to entries in the salary table.
-**czechia_payroll_unit**: Indicates the unit count associated with values in the salary table.
-**czechia_payroll_value_type**: Enumerates the value types present in the salary table.
-**czechia_price**: Offers data on the pricing dynamics of select food items over a span of several years. This dataset is also obtained from the Open Data Portal of the Czech Republic.
-**czechia_price_category**: Represents an index of food categories featured in our analysis.
-**czechia_region**: Depicts the region codes of the Czech Republic according to the CZ-NUTS 2 standard.
-**czechia_district**: Enumerates the district numbers of the Czech Republic in accordance with the LAU standard.
-**countries**: Encompasses diverse information about countries worldwide, such as capital cities, currencies, national cuisines, and average population heights.
-**economies**: Provides insights into GDP, GINI coefficient, tax burdens, etc., for a given state and year.
+**czechia_payroll**: Provides insights into wage trends across various sectors spanning multiple years. The dataset is sourced from the Open Data Portal of the Czech Republic.  
+**czechia_payroll_calculation**: An index denoting the calculations applied within the salary table.  
+**czechia_payroll_industry_branch**: Identifies the branch number corresponding to entries in the salary table.  
+**czechia_payroll_unit**: Indicates the unit count associated with values in the salary table.  
+**czechia_payroll_value_type**: Enumerates the value types present in the salary table.  
+**czechia_price**: Offers data on the pricing dynamics of select food items over a span of several years. This dataset is also obtained from the Open Data Portal of the Czech Republic.  
+**czechia_price_category**: Represents an index of food categories featured in our analysis.  
+**czechia_region**: Depicts the region codes of the Czech Republic according to the CZ-NUTS 2 standard.  
+**czechia_district**: Enumerates the district numbers of the Czech Republic in accordance with the LAU standard.  
+**countries**: Encompasses diverse information about countries worldwide, such as capital cities, currencies, national cuisines, and average population heights.  
+**economies**: Provides insights into GDP, GINI coefficient, tax burdens, etc., for a given state and year.  
 
 ## Primary Table Approach
 
