@@ -31,7 +31,11 @@ There are 25 instances of decrease in wages in a specific industry branch. In 20
 ### RQ 2: How many liters of milk and kilograms of bread can be bought in the first and last comparable periods in the available price and wage data?
 For the average wage in the first comparable period (2006) 1 312 loaves of bread or 1 465 liters of milk can be bought. In the last comparable period (2018) it’s 1 365 loaves of bread and 1669 liters of milk. The price of milk increased less than the price of bread in the observed time period.
 RQ 3: Which food category is increasing in price the slowest (has the lowest percentage year-on-year increase)?
+The slowest increase in price during the monitored period was crystal sugar, which actually decreased in price since 2006.
+
+### RQ 3: Which food category is increasing in price the slowest (has the lowest percentage year-on-year increase)?
 The slowest increase in price during the monitored period was crystal sugar, which actually decreased in price since 2006. 
+
 
 ### RQ 4: Has there been a year in which the year-on-year increase in food prices was significantly higher than wage growth (greater than 10%)?
 There was no year in the observed time period where the year-on-year increase in food prices was more than 10% higher than wage growth. The highest difference was 6% in 2013.
