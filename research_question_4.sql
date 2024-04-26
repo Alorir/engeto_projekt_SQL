@@ -44,4 +44,3 @@ JOIN
     wage_change_percentage wcp ON pcp.obs_year = wcp.obs_year
 WHERE 
     pcp.percentage_change_price > (wcp.percentage_change_salary + 10);
-

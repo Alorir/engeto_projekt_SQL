@@ -9,5 +9,3 @@ JOIN countries c ON e.country = c.country
 WHERE gdp IS NOT NULL
 AND c.continent = 'Europe'
 AND e.year BETWEEN 2006 AND 2018;
-
-

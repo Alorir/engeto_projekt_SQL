@@ -54,4 +54,3 @@ FROM
     last_period_wage lpw
 JOIN 
     last_period_price lpp ON lpw.obs_year = lpp.obs_year;
-

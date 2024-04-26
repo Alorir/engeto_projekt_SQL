@@ -36,5 +36,3 @@ SELECT
     avg_percentage_change AS average_percentage_increase
 FROM 
     slowest_price_increase;
-   
-   
