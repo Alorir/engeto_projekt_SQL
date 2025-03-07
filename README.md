@@ -1,14 +1,14 @@
 ## Food Affordability and Wage Analysis in the Czech Republic
 
-📌 Project Overview
+📌 Project Overview\
 This project analyzes the affordability of basic food items in the Czech Republic by comparing wage trends and food prices over multiple years. The goal is to provide insights into how economic factors impact the purchasing power of citizens.
 
 🔍 Research Questions Addressed
-Do wages increase consistently across all industries?
-How has the purchasing power of essential goods (milk, bread) changed over time?
-Which food category has the slowest price increase?
-Were there years when food prices rose significantly faster than wages?
-Does GDP growth correlate with changes in wages and food prices?
+Do wages increase consistently across all industries?\
+How has the purchasing power of essential goods (milk, bread) changed over time?\
+Which food category has the slowest price increase?\
+Were there years when food prices rose significantly faster than wages?\
+Does GDP growth correlate with changes in wages and food prices?\
 
 📊 Data Sources
 The analysis uses publicly available datasets from the Czech Open Data Portal, including:
@@ -26,9 +26,9 @@ The analysis uses publicly available datasets from the Czech Open Data Portal, i
 **economies**: Provides insights into GDP, GINI coefficient, tax burdens, etc., for a given state and year.\
 
 
-🛠 Project Deliverables
-Two structured SQL tables:
-Unified wage and food price dataset for Czechia.
-Additional economic indicators for European countries.
-SQL scripts to extract key insights and answer research questions.
-Data quality report highlighting missing values or inconsistencies.
+🛠 Project Deliverables\
+Two structured SQL tables:\
+Unified wage and food price dataset for Czechia.\
+Additional economic indicators for European countries.\
+SQL scripts to extract key insights and answer research questions.\
+Data quality report highlighting missing values or inconsistencies.\
