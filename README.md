@@ -28,7 +28,7 @@ The analysis uses publicly available datasets from the Czech Open Data Portal, i
 
 ### 🛠 Project Deliverables
 Two structured SQL tables:\
-- Unified wage and food price dataset for Czechia.\
-- Additional economic indicators for European countries.\
+ - Unified wage and food price dataset for Czechia.\
+ - Additional economic indicators for European countries.\
 SQL scripts to extract key insights and answer research questions.\
 Data quality report highlighting missing values or inconsistencies.
